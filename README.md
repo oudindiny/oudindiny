@@ -4,6 +4,6 @@
 <h5>🛠 I’m currently learning</h5>
 <h5>💻 I majored in Computer software engineering</h5>
 <h5>🏡 I live in bucheon, Korea </h5>
-----
-<h3>Skils</h3> ----
-<h3>Business Skils</h3> ----
+<hr>
+<h3>Skils</h3> <hr>
+<h3>Business Skils</h3> <hr>
