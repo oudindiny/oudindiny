@@ -23,5 +23,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 </div>
 <div>
-  [[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oudindiny&layout=compact)](https://github.com/oudindiny/github-readme-stats)
+  [(https://github-readme-stats.vercel.app/api/top-langs/?username=oudindiny&layout=compact)](https://github.com/oudindiny/github-readme-stats)
 </div>
