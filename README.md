@@ -22,6 +22,4 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 </div>
-<div>
-  [(https://github-readme-stats.vercel.app/api/top-langs/?username=oudindiny&layout=compact)](https://github.com/oudindiny/github-readme-stats)
-</div>
+
