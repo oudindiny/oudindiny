@@ -5,7 +5,7 @@
 <div>💻 I majored in Computer software engineering</div>
 <div>🏡 I live in bucheon, Korea </div>
 <br><hr><br>
-<div align=center>🖥 Skils & Studying ✏️</div><br>
+<div align=center>🖥 Skills & Studying ✏️</div><br>
 <div align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   </div><br><br>
-<div align=center>🖌Business Skils⭐️</div><br>
+<div align=center>🖌Business Skills⭐️</div><br>
 <div align=center>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
